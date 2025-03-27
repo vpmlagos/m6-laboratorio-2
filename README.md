@@ -3,6 +3,7 @@
 
 <code>
 git clone git@github.com:vpmlagos/m6-laboratorio-2.git<br>
+cd m6-laboratorio-2
 npm install<br>
 npm install react-router-dom<br>
 npm install prop-types<br>
